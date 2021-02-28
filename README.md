@@ -39,6 +39,8 @@
 <img align="left" alt="GCP" width="26px" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" />
 <img align="left" alt="VS CODE" width="26px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
 <img align="left" alt="VS CODE" width="26px" src="https://img.icons8.com/color/48/000000/azure-1.png" />
+<img align="left" alt="VS CODE" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png" />
+<img align="left" alt="VS CODE" width="26px" src="https://img.icons8.com/bubbles/50/000000/react.png" />
 <br/>
 
 ---
