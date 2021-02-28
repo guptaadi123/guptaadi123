@@ -38,7 +38,7 @@
 <img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png" />
 <img align="left" alt="GCP" width="26px" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" />
 <img align="left" alt="VS CODE" width="26px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
-<img align="left" alt="VS CODE" width="26px" src="https://icons8.com/icon/81727/azure" />
+<img align="left" alt="VS CODE" width="26px" src="https://img.icons8.com/color/48/000000/azure-1.png" />
 <br/>
 
 ---
