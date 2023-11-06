@@ -1,10 +1,10 @@
 ### Hi there, I'm ADITYA VIKRAM GUPTA student at MANIPAL UNIVERSITY JAIPUR   👋
 
-## I'm a STUDENT, DEVELOPER, DATA SCIENCE ENTHUSIAST!
-- 🔭 I’m currently working on a [INTEGERATING MULTIPLE TECHNOLOGIES]!
-- 🌱 I’m currently learning new technologies 
+## I'm a AWS, DEVOPS, ENTHUSIAST 2X Redhat certified and AWS solution archeitect!
+- 🔭 I’m currently working on a [INTEGERATING MULTIPLE TECHNOLOGIES] and setting automations!
+- 🌱 I’m currently learning advance networking concept
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 and 2021 Goals: Learning  and Exploring New Technologies
+- 🥅 2023 and 2024 Goals: Learning  and Exploring New Technologies
 - ⚡ Fact: I love to learn new things and newer technologies...
 
 ---
