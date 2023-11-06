@@ -59,4 +59,3 @@
 [linkedin]: https://www.linkedin.com/in/aditya-gupta-695252194
 
 
-![Nikhil GR github stats](https://github-readme-stats.vercel.app/api?username=guptaadi123&count_private=true&show_icons=true&theme=radical)
